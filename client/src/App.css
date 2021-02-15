@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background: rgb(129, 129, 129);
+  color: white;
+}
+
+.page-title {
+  display: block !important;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 2.5rem;
+}
+
+.form-container {
+  width: 60%;
+  margin: 20px auto;
+  background: rgb(77, 98, 121);
+  padding: 2rem;
+  border-radius: 2px;
+  box-shadow: 2px 2px 2px black;
+}
